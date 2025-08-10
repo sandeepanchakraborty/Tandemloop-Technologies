@@ -61,18 +61,31 @@ Make sure you are in the directory containing the `.java` files.
 
 - **question1.java**:  
   Solution for screening question 1.  
-  *(Open the file to see details about the problem and implementation.)*
+Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
+  Calculator inputs :> ‘a’, ‘b’ and ‘type of operation’
+  Datatype :> ‘a’ = double, ‘b’ = double, ‘type of operation’ = string
 
 - **question2.java**:  
   Solution for screening question 2.  
-  *(Open the file to see details about the problem and implementation.)*
+Problem-2: With a single integer as the input, generate the following until a = x [series of numbers as shown in below examples]
+ 
+  Output: (examples)
+    1) input a = 1, then output : 1
+    2) input a = 2, then output : 1, 3
+    3) input a = 3, then output : 1, 3, 5
+    4) input a = 4, then output : 1, 3, 5, 7
+    .
+    .
+    5) input a = x, then output : 1, 3, 5, 7, .......
+ 
 
 - **question3.java**:  
   Solution for screening question 3.  
-  *(Open the file to see details about the problem and implementation.)*
-
-- **Calculator.class**:  
-  Compiled class file, possibly used internally by one of the screening questions.
+Get the total count of number listed in the dictionary which is multiple of [1,2,3,4,5,6,7,8,9]
+  (examples)
+  input: [1,2,8,9,12,46,76,82,15,20,30]
+  Output: 
+    {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
 
 ## Notes
 
@@ -80,14 +93,7 @@ Make sure you are in the directory containing the `.java` files.
 - If you wish to see the problem statements or more context, please refer to comments inside each `.java` file.
 - No external dependencies are required; all solutions use standard Java libraries.
 
-## Contributing
 
-Feel free to fork the repository and submit pull requests for improvements, bug fixes, or additional solutions.
-
-## License
-
-_No license information provided. Please contact the repository owner for usage guidelines._
-
----
 
 **Repository:** [sandeepanchakraborty/Tandemloop-Technologies](https://github.com/sandeepanchakraborty/Tandemloop-Technologies)
+
